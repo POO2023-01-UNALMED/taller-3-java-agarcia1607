@@ -1,6 +1,6 @@
 package taller3.televisores;
 
-public class tv {
+public class TV {
 	
 	private int canal = 1;
 	private int volumen = 1;
@@ -111,4 +111,4 @@ public class tv {
 
 	
 
-
+}
